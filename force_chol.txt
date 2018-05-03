@@ -1,0 +1,159 @@
+source	target	value	name	group	size	count	cancer	relation	gene
+1	E	1	Gallbladder Carcinoma	2	1	2	Gallbladder Carcinoma	ASSOCIATED_WITH	AFP
+1	C	1	Cholangiocarcinoma	2	1	3	Cholangiocarcinoma	ASSOCIATED_WITH	AFP
+1	F	1	Intrahepatic Cholangiocarcinoma	2	1	3	Intrahepatic Cholangiocarcinoma	ASSOCIATED_WITH	AFP
+1	F	1	Intrahepatic Cholangiocarcinoma	4	1	3	Intrahepatic Cholangiocarcinoma	CAUSES	AFP
+2	F	1	Intrahepatic Cholangiocarcinoma	2	1	1	Intrahepatic Cholangiocarcinoma	ASSOCIATED_WITH	AKT1
+3	D	1	Extrahepatic Cholangiocarcinoma	2	1	2	Extrahepatic Cholangiocarcinoma	ASSOCIATED_WITH	APC
+3	E	1	Gallbladder Carcinoma	2	1	3	Gallbladder Carcinoma	ASSOCIATED_WITH	APC
+4	E	1	Gallbladder Carcinoma	5	1	1	Gallbladder Carcinoma	DISRUPTS	APOA1
+5	A	1	Biliary Tract Cancer	2	1	1	Biliary Tract Cancer	ASSOCIATED_WITH	ARID1A
+5	F	1	Intrahepatic Cholangiocarcinoma	2	1	4	Intrahepatic Cholangiocarcinoma	ASSOCIATED_WITH	ARID1A
+6	B	1	Carcinoma of ampulla of Vater	2	1	1	Carcinoma of ampulla of Vater	ASSOCIATED_WITH	BAK1
+7	B	1	Carcinoma of ampulla of Vater	2	1	2	Carcinoma of ampulla of Vater	ASSOCIATED_WITH	BCL2L1
+8	E	1	Gallbladder Carcinoma	2	1	2	Gallbladder Carcinoma	ASSOCIATED_WITH	BIRC5
+9	B	1	Carcinoma of ampulla of Vater	2	1	1	Carcinoma of ampulla of Vater	ASSOCIATED_WITH	BRAF
+9	F	1	Intrahepatic Cholangiocarcinoma	2	1	1	Intrahepatic Cholangiocarcinoma	ASSOCIATED_WITH	BRAF
+9	C	1	Cholangiocarcinoma	2	1	2	Cholangiocarcinoma	ASSOCIATED_WITH	BRAF
+9	A	1	Biliary Tract Cancer	2	1	3	Biliary Tract Cancer	ASSOCIATED_WITH	BRAF
+10	F	1	Intrahepatic Cholangiocarcinoma	2	1	3	Intrahepatic Cholangiocarcinoma	ASSOCIATED_WITH	CAPNS1
+11	F	1	Intrahepatic Cholangiocarcinoma	1	1	1	Intrahepatic Cholangiocarcinoma	AFFECTS	CCND1
+11	F	1	Intrahepatic Cholangiocarcinoma	2	1	1	Intrahepatic Cholangiocarcinoma	ASSOCIATED_WITH	CCND1
+12	E	1	Gallbladder Carcinoma	2	1	1	Gallbladder Carcinoma	ASSOCIATED_WITH	CCNE1
+13	E	1	Gallbladder Carcinoma	2	1	1	Gallbladder Carcinoma	ASSOCIATED_WITH	CD151
+13	F	1	Intrahepatic Cholangiocarcinoma	2	1	1	Intrahepatic Cholangiocarcinoma	ASSOCIATED_WITH	CD151
+14	A	1	Biliary Tract Cancer	2	1	1	Biliary Tract Cancer	ASSOCIATED_WITH	CD4
+14	D	1	Extrahepatic Cholangiocarcinoma	2	1	1	Extrahepatic Cholangiocarcinoma	ASSOCIATED_WITH	CD4
+15	C	1	Cholangiocarcinoma	1	1	1	Cholangiocarcinoma	AFFECTS	CDKN2A
+15	F	1	Intrahepatic Cholangiocarcinoma	1	1	1	Intrahepatic Cholangiocarcinoma	AFFECTS	CDKN2A
+15	C	1	Cholangiocarcinoma	5	1	1	Cholangiocarcinoma	DISRUPTS	CDKN2A
+15	A	1	Biliary Tract Cancer	2	1	2	Biliary Tract Cancer	ASSOCIATED_WITH	CDKN2A
+15	D	1	Extrahepatic Cholangiocarcinoma	2	1	2	Extrahepatic Cholangiocarcinoma	ASSOCIATED_WITH	CDKN2A
+15	F	1	Intrahepatic Cholangiocarcinoma	2	1	2	Intrahepatic Cholangiocarcinoma	ASSOCIATED_WITH	CDKN2A
+15	C	1	Cholangiocarcinoma	2	1	3	Cholangiocarcinoma	ASSOCIATED_WITH	CDKN2A
+15	E	1	Gallbladder Carcinoma	2	1	7	Gallbladder Carcinoma	ASSOCIATED_WITH	CDKN2A
+16	E	1	Gallbladder Carcinoma	2	1	1	Gallbladder Carcinoma	ASSOCIATED_WITH	CIZ1
+17	E	1	Gallbladder Carcinoma	2	1	2	Gallbladder Carcinoma	ASSOCIATED_WITH	CLIC1
+18	F	1	Intrahepatic Cholangiocarcinoma	2	1	1	Intrahepatic Cholangiocarcinoma	ASSOCIATED_WITH	CPS1
+19	C	1	Cholangiocarcinoma	2	1	1	Cholangiocarcinoma	ASSOCIATED_WITH	DAPK1
+20	D	1	Extrahepatic Cholangiocarcinoma	1	1	1	Extrahepatic Cholangiocarcinoma	AFFECTS	DCC
+20	A	1	Biliary Tract Cancer	2	1	2	Biliary Tract Cancer	ASSOCIATED_WITH	DCC
+20	E	1	Gallbladder Carcinoma	2	1	2	Gallbladder Carcinoma	ASSOCIATED_WITH	DCC
+21	E	1	Gallbladder Carcinoma	2	1	1	Gallbladder Carcinoma	ASSOCIATED_WITH	DICER1
+22	A	1	Biliary Tract Cancer	2	1	1	Biliary Tract Cancer	ASSOCIATED_WITH	DPYD
+22	B	1	Carcinoma of ampulla of Vater	2	1	1	Carcinoma of ampulla of Vater	ASSOCIATED_WITH	DPYD
+22	E	1	Gallbladder Carcinoma	2	1	2	Gallbladder Carcinoma	ASSOCIATED_WITH	DPYD
+23	E	1	Gallbladder Carcinoma	2	1	2	Gallbladder Carcinoma	ASSOCIATED_WITH	E2F1
+24	C	1	Cholangiocarcinoma	2	1	2	Cholangiocarcinoma	ASSOCIATED_WITH	EPCAM
+24	E	1	Gallbladder Carcinoma	2	1	3	Gallbladder Carcinoma	ASSOCIATED_WITH	EPCAM
+25	E	1	Gallbladder Carcinoma	2	1	2	Gallbladder Carcinoma	ASSOCIATED_WITH	EPHA7
+26	A	1	Biliary Tract Cancer	2	1	3	Biliary Tract Cancer	ASSOCIATED_WITH	ERBB2
+26	C	1	Cholangiocarcinoma	2	1	3	Cholangiocarcinoma	ASSOCIATED_WITH	ERBB2
+27	E	1	Gallbladder Carcinoma	2	1	1	Gallbladder Carcinoma	ASSOCIATED_WITH	ESR1
+28	C	1	Cholangiocarcinoma	2	1	2	Cholangiocarcinoma	ASSOCIATED_WITH	EZH2
+29	C	1	Cholangiocarcinoma	2	1	1	Cholangiocarcinoma	ASSOCIATED_WITH	FABP1
+30	C	1	Cholangiocarcinoma	2	1	1	Cholangiocarcinoma	ASSOCIATED_WITH	FAS
+30	A	1	Biliary Tract Cancer	4	1	1	Biliary Tract Cancer	CAUSES	FAS
+31	E	1	Gallbladder Carcinoma	2	1	1	Gallbladder Carcinoma	ASSOCIATED_WITH	FCGBP
+32	A	1	Biliary Tract Cancer	2	1	1	Biliary Tract Cancer	ASSOCIATED_WITH	GCLC
+33	A	1	Biliary Tract Cancer	2	1	2	Biliary Tract Cancer	ASSOCIATED_WITH	GRN
+34	E	1	Gallbladder Carcinoma	2	1	2	Gallbladder Carcinoma	ASSOCIATED_WITH	HGF
+35	F	1	Intrahepatic Cholangiocarcinoma	2	1	1	Intrahepatic Cholangiocarcinoma	ASSOCIATED_WITH	HMGA2
+36	C	1	Cholangiocarcinoma	2	1	2	Cholangiocarcinoma	ASSOCIATED_WITH	IDH1
+36	F	1	Intrahepatic Cholangiocarcinoma	2	1	3	Intrahepatic Cholangiocarcinoma	ASSOCIATED_WITH	IDH1
+37	E	1	Gallbladder Carcinoma	2	1	1	Gallbladder Carcinoma	ASSOCIATED_WITH	JAG1
+38	F	1	Intrahepatic Cholangiocarcinoma	2	1	1	Intrahepatic Cholangiocarcinoma	ASSOCIATED_WITH	KRT7
+39	A	1	Biliary Tract Cancer	2	1	1	Biliary Tract Cancer	ASSOCIATED_WITH	LRG1
+40	E	1	Gallbladder Carcinoma	1	1	1	Gallbladder Carcinoma	AFFECTS	MGMT
+40	A	1	Biliary Tract Cancer	2	1	1	Biliary Tract Cancer	ASSOCIATED_WITH	MGMT
+41	A	1	Biliary Tract Cancer	2	1	1	Biliary Tract Cancer	ASSOCIATED_WITH	MUC1
+41	B	1	Carcinoma of ampulla of Vater	2	1	1	Carcinoma of ampulla of Vater	ASSOCIATED_WITH	MUC1
+41	C	1	Cholangiocarcinoma	2	1	1	Cholangiocarcinoma	ASSOCIATED_WITH	MUC1
+41	E	1	Gallbladder Carcinoma	2	1	2	Gallbladder Carcinoma	ASSOCIATED_WITH	MUC1
+41	F	1	Intrahepatic Cholangiocarcinoma	2	1	2	Intrahepatic Cholangiocarcinoma	ASSOCIATED_WITH	MUC1
+42	C	1	Cholangiocarcinoma	2	1	1	Cholangiocarcinoma	ASSOCIATED_WITH	MUC16
+43	A	1	Biliary Tract Cancer	2	1	1	Biliary Tract Cancer	ASSOCIATED_WITH	MUC4
+43	C	1	Cholangiocarcinoma	2	1	1	Cholangiocarcinoma	ASSOCIATED_WITH	MUC4
+43	E	1	Gallbladder Carcinoma	2	1	3	Gallbladder Carcinoma	ASSOCIATED_WITH	MUC4
+44	B	1	Carcinoma of ampulla of Vater	2	1	1	Carcinoma of ampulla of Vater	ASSOCIATED_WITH	MUC5AC
+44	A	1	Biliary Tract Cancer	2	1	2	Biliary Tract Cancer	ASSOCIATED_WITH	MUC5AC
+44	F	1	Intrahepatic Cholangiocarcinoma	2	1	2	Intrahepatic Cholangiocarcinoma	ASSOCIATED_WITH	MUC5AC
+45	C	1	Cholangiocarcinoma	2	1	1	Cholangiocarcinoma	ASSOCIATED_WITH	NEK2
+46	F	1	Intrahepatic Cholangiocarcinoma	2	1	3	Intrahepatic Cholangiocarcinoma	ASSOCIATED_WITH	NOTCH1
+47	E	1	Gallbladder Carcinoma	1	1	1	Gallbladder Carcinoma	AFFECTS	NR1H4
+48	C	1	Cholangiocarcinoma	2	1	1	Cholangiocarcinoma	ASSOCIATED_WITH	NR1I2
+49	C	1	Cholangiocarcinoma	2	1	1	Cholangiocarcinoma	ASSOCIATED_WITH	NR1I3
+50	E	1	Gallbladder Carcinoma	2	1	1	Gallbladder Carcinoma	ASSOCIATED_WITH	NT5E
+51	E	1	Gallbladder Carcinoma	2	1	1	Gallbladder Carcinoma	ASSOCIATED_WITH	PEBP1
+52	A	1	Biliary Tract Cancer	2	1	1	Biliary Tract Cancer	ASSOCIATED_WITH	PIK3CA
+52	F	1	Intrahepatic Cholangiocarcinoma	2	1	1	Intrahepatic Cholangiocarcinoma	ASSOCIATED_WITH	PIK3CA
+53	C	1	Cholangiocarcinoma	2	1	2	Cholangiocarcinoma	ASSOCIATED_WITH	PKHD1
+54	E	1	Gallbladder Carcinoma	2	1	1	Gallbladder Carcinoma	ASSOCIATED_WITH	PLK1
+55	C	1	Cholangiocarcinoma	2	1	2	Cholangiocarcinoma	ASSOCIATED_WITH	PROX1
+56	G	1	Klatskin's Tumor	1	1	1	Klatskin's Tumor	AFFECTS	PRR11
+57	D	1	Extrahepatic Cholangiocarcinoma	1	1	1	Extrahepatic Cholangiocarcinoma	AFFECTS	PTEN
+57	B	1	Carcinoma of ampulla of Vater	2	1	1	Carcinoma of ampulla of Vater	ASSOCIATED_WITH	PTEN
+57	C	1	Cholangiocarcinoma	4	1	1	Cholangiocarcinoma	CAUSES	PTEN
+57	C	1	Cholangiocarcinoma	5	1	1	Cholangiocarcinoma	DISRUPTS	PTEN
+57	A	1	Biliary Tract Cancer	2	1	3	Biliary Tract Cancer	ASSOCIATED_WITH	PTEN
+57	C	1	Cholangiocarcinoma	2	1	3	Cholangiocarcinoma	ASSOCIATED_WITH	PTEN
+57	F	1	Intrahepatic Cholangiocarcinoma	2	1	3	Intrahepatic Cholangiocarcinoma	ASSOCIATED_WITH	PTEN
+57	E	1	Gallbladder Carcinoma	2	1	5	Gallbladder Carcinoma	ASSOCIATED_WITH	PTEN
+58	C	1	Cholangiocarcinoma	3	1	1	Cholangiocarcinoma	AUGMENTS	PTGS2
+58	E	1	Gallbladder Carcinoma	3	1	1	Gallbladder Carcinoma	AUGMENTS	PTGS2
+58	C	1	Cholangiocarcinoma	2	1	4	Cholangiocarcinoma	ASSOCIATED_WITH	PTGS2
+58	E	1	Gallbladder Carcinoma	2	1	8	Gallbladder Carcinoma	ASSOCIATED_WITH	PTGS2
+59	F	1	Intrahepatic Cholangiocarcinoma	2	1	2	Intrahepatic Cholangiocarcinoma	ASSOCIATED_WITH	RASA1
+60	C	1	Cholangiocarcinoma	2	1	1	Cholangiocarcinoma	ASSOCIATED_WITH	RBP1
+61	C	1	Cholangiocarcinoma	2	1	1	Cholangiocarcinoma	ASSOCIATED_WITH	RHOC
+62	E	1	Gallbladder Carcinoma	2	1	1	Gallbladder Carcinoma	ASSOCIATED_WITH	ROBO1
+63	A	1	Biliary Tract Cancer	2	1	1	Biliary Tract Cancer	ASSOCIATED_WITH	RUNX3
+63	F	1	Intrahepatic Cholangiocarcinoma	2	1	1	Intrahepatic Cholangiocarcinoma	ASSOCIATED_WITH	RUNX3
+64	F	1	Intrahepatic Cholangiocarcinoma	3	1	1	Intrahepatic Cholangiocarcinoma	AUGMENTS	S100A11
+65	C	1	Cholangiocarcinoma	2	1	1	Cholangiocarcinoma	ASSOCIATED_WITH	SDC2
+66	F	1	Intrahepatic Cholangiocarcinoma	2	1	1	Intrahepatic Cholangiocarcinoma	ASSOCIATED_WITH	SERPINH1
+67	A	1	Biliary Tract Cancer	2	1	1	Biliary Tract Cancer	ASSOCIATED_WITH	SFRP1
+67	F	1	Intrahepatic Cholangiocarcinoma	2	1	2	Intrahepatic Cholangiocarcinoma	ASSOCIATED_WITH	SFRP1
+68	E	1	Gallbladder Carcinoma	2	1	2	Gallbladder Carcinoma	ASSOCIATED_WITH	SHH
+69	A	1	Biliary Tract Cancer	2	1	1	Biliary Tract Cancer	ASSOCIATED_WITH	SHOX2
+70	C	1	Cholangiocarcinoma	2	1	1	Cholangiocarcinoma	ASSOCIATED_WITH	SLC22A1
+71	C	1	Cholangiocarcinoma	2	1	2	Cholangiocarcinoma	ASSOCIATED_WITH	SLC22A3
+72	G	1	Klatskin's Tumor	2	1	3	Klatskin's Tumor	ASSOCIATED_WITH	SLC38A1
+73	F	1	Intrahepatic Cholangiocarcinoma	1	1	1	Intrahepatic Cholangiocarcinoma	AFFECTS	SMAD4
+73	C	1	Cholangiocarcinoma	2	1	1	Cholangiocarcinoma	ASSOCIATED_WITH	SMAD4
+73	C	1	Cholangiocarcinoma	4	1	1	Cholangiocarcinoma	CAUSES	SMAD4
+73	C	1	Cholangiocarcinoma	5	1	1	Cholangiocarcinoma	DISRUPTS	SMAD4
+73	D	1	Extrahepatic Cholangiocarcinoma	1	1	2	Extrahepatic Cholangiocarcinoma	AFFECTS	SMAD4
+73	F	1	Intrahepatic Cholangiocarcinoma	2	1	3	Intrahepatic Cholangiocarcinoma	ASSOCIATED_WITH	SMAD4
+73	A	1	Biliary Tract Cancer	2	1	4	Biliary Tract Cancer	ASSOCIATED_WITH	SMAD4
+74	C	1	Cholangiocarcinoma	3	1	1	Cholangiocarcinoma	AUGMENTS	SNAI1
+74	G	1	Klatskin's Tumor	5	1	1	Klatskin's Tumor	DISRUPTS	SNAI1
+75	C	1	Cholangiocarcinoma	2	1	1	Cholangiocarcinoma	ASSOCIATED_WITH	SOX4
+76	A	1	Biliary Tract Cancer	2	1	1	Biliary Tract Cancer	ASSOCIATED_WITH	SOX9
+77	B	1	Carcinoma of ampulla of Vater	2	1	1	Carcinoma of ampulla of Vater	ASSOCIATED_WITH	SPARC
+78	E	1	Gallbladder Carcinoma	2	1	1	Gallbladder Carcinoma	ASSOCIATED_WITH	SSBP2
+79	E	1	Gallbladder Carcinoma	2	1	2	Gallbladder Carcinoma	ASSOCIATED_WITH	STMN1
+80	C	1	Cholangiocarcinoma	2	1	1	Cholangiocarcinoma	ASSOCIATED_WITH	TACSTD2
+80	G	1	Klatskin's Tumor	2	1	6	Klatskin's Tumor	ASSOCIATED_WITH	TACSTD2
+81	F	1	Intrahepatic Cholangiocarcinoma	2	1	1	Intrahepatic Cholangiocarcinoma	ASSOCIATED_WITH	TAT
+82	E	1	Gallbladder Carcinoma	2	1	1	Gallbladder Carcinoma	ASSOCIATED_WITH	TIMP1
+83	E	1	Gallbladder Carcinoma	2	1	1	Gallbladder Carcinoma	ASSOCIATED_WITH	TOP2A
+83	E	1	Gallbladder Carcinoma	3	1	1	Gallbladder Carcinoma	AUGMENTS	TOP2A
+84	A	1	Biliary Tract Cancer	1	1	1	Biliary Tract Cancer	AFFECTS	TP53
+84	A	1	Biliary Tract Cancer	2	1	1	Biliary Tract Cancer	ASSOCIATED_WITH	TP53
+84	F	1	Intrahepatic Cholangiocarcinoma	4	1	1	Intrahepatic Cholangiocarcinoma	CAUSES	TP53
+84	F	1	Intrahepatic Cholangiocarcinoma	1	1	2	Intrahepatic Cholangiocarcinoma	AFFECTS	TP53
+84	C	1	Cholangiocarcinoma	4	1	2	Cholangiocarcinoma	CAUSES	TP53
+84	D	1	Extrahepatic Cholangiocarcinoma	2	1	4	Extrahepatic Cholangiocarcinoma	ASSOCIATED_WITH	TP53
+84	F	1	Intrahepatic Cholangiocarcinoma	2	1	5	Intrahepatic Cholangiocarcinoma	ASSOCIATED_WITH	TP53
+84	C	1	Cholangiocarcinoma	2	1	15	Cholangiocarcinoma	ASSOCIATED_WITH	TP53
+84	E	1	Gallbladder Carcinoma	2	1	17	Gallbladder Carcinoma	ASSOCIATED_WITH	TP53
+85	C	1	Cholangiocarcinoma	2	1	2	Cholangiocarcinoma	ASSOCIATED_WITH	TP73
+85	G	1	Klatskin's Tumor	2	1	2	Klatskin's Tumor	ASSOCIATED_WITH	TP73
+86	C	1	Cholangiocarcinoma	2	1	1	Cholangiocarcinoma	ASSOCIATED_WITH	TPM1
+87	E	1	Gallbladder Carcinoma	2	1	1	Gallbladder Carcinoma	ASSOCIATED_WITH	UHRF1
+88	E	1	Gallbladder Carcinoma	2	1	1	Gallbladder Carcinoma	ASSOCIATED_WITH	VIM
+88	C	1	Cholangiocarcinoma	2	1	2	Cholangiocarcinoma	ASSOCIATED_WITH	VIM
+89	F	1	Intrahepatic Cholangiocarcinoma	2	1	1	Intrahepatic Cholangiocarcinoma	ASSOCIATED_WITH	WWOX
+89	C	1	Cholangiocarcinoma	2	1	5	Cholangiocarcinoma	ASSOCIATED_WITH	WWOX
+90	A	1	Biliary Tract Cancer	2	1	1	Biliary Tract Cancer	ASSOCIATED_WITH	XRCC1

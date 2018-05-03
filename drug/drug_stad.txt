@@ -1,0 +1,134 @@
+drug	gene
+Afatinib Dimaleate	EGFR
+Afatinib Dimaleate	ERBB4
+Afatinib Dimaleate	ERBB2
+Anastrozole	CYP19A1
+Aprepitant	CYP3A4
+Axitinib	FLT3
+Axitinib	PDGFRB
+Axitinib	PDGFRA
+Belinostat	HDAC10
+Belinostat	HDAC2
+Bosutinib	EPHB2
+Bosutinib	MAP3K7
+Bosutinib	EPHB4
+Bosutinib	TNIK
+Bosutinib	EPHA3
+Bosutinib	EPHA2
+Bosutinib	EGFR
+Bosutinib	ERBB3
+Bosutinib	ERBB4
+Bosutinib	FYN
+Bosutinib	LYN
+Bosutinib	FRK
+Ceritinib	FLT3
+Cetuximab	EGFR
+Clofarabine	RRM2
+Crizotinib	ROS1
+Crizotinib	MET
+Crizotinib	EPHA2
+Crizotinib	NTRK3
+Dasatinib	FLT3
+Dasatinib	EPHB2
+Dasatinib	EPHB4
+Dasatinib	PDGFRB
+Dasatinib	PDGFRA
+Dasatinib	EPHA3
+Dasatinib	EPHA2
+Dasatinib	EGFR
+Dasatinib	ERBB3
+Dasatinib	ERBB4
+Dasatinib	FYN
+Dasatinib	LYN
+Dasatinib	FRK
+Docetaxel	KIF11
+Docetaxel	EGFR
+Erlotinib Hydrochloride	FLT3
+Etoposide	TOP2A
+Everolimus	MTOR
+Imatinib Mesylate	PDGFRB
+Imatinib Mesylate	PDGFRA
+Mitoxantrone Hydrochloride	PIM1
+Nilotinib	PDGFRB
+Nilotinib	PDGFRA
+Pemetrexed Disodium	TYMS
+Sunitinib Malate	TNIK
+Sunitinib Malate	TTK
+Tamoxifen Citrate	ABCB1
+Vinblastine Sulfate	ABCB1
+Crizotinib	ALK
+Alectinib	ALK
+Sunitinib Malate	ALK
+Bosutinib	ALK
+Ceritinib	ALK
+Axitinib	AURKA
+Doxorubicin Hydrochloride	AURKA
+Crizotinib	AURKB
+Erlotinib Hydrochloride	AURKB
+Sorafenib Tosylate	AURKB
+Sunitinib Malate	AURKB
+Axitinib	AURKB
+Venetoclax	BCL2
+Vemurafenib	BRAF
+Regorafenib	BRAF
+Dasatinib	BRAF
+Sorafenib Tosylate	BRAF
+Dabrafenib	BRAF
+Pazopanib Hydrochloride	BRAF
+Nilotinib	CA9
+Imatinib Mesylate	CA9
+Palbociclib	CDK6
+Sunitinib Malate	CHEK1
+Sunitinib Malate	CHEK2
+Ipilimumab	CTLA4
+Sorafenib Tosylate	CYP19A1
+Exemestane	CYP19A1
+Letrozole	CYP19A1
+Ruxolitinib Phosphate	DAPK1
+Ruxolitinib Phosphate	DCLK1
+Sunitinib Malate	DLK1
+Erlotinib Hydrochloride	EGFR
+Vandetanib	EGFR
+Necitumumab	EGFR
+Panitumumab	EGFR
+Lapatinib Ditosylate	EGFR
+Imatinib Mesylate	EGFR
+Ibrutinib	EGFR
+Sunitinib Malate	EGFR
+Gefitinib	EGFR
+Nilotinib	EPHB2
+Nilotinib	EPHB4
+Pertuzumab	ERBB2
+Lapatinib Ditosylate	ERBB2
+Lapatinib Ditosylate	ERBB4
+Sorafenib Tosylate	FLT3
+Vandetanib	FLT3
+Sunitinib Malate	FLT3
+Pazopanib Hydrochloride	FLT3
+Gefitinib	FLT3
+Lenvatinib Mesylate	FLT4
+Sorafenib Tosylate	FLT4
+Sunitinib Malate	FLT4
+Pazopanib Hydrochloride	FLT4
+Nilotinib	FRK
+Panobinostat	HDAC10
+Vorinostat	HDAC10
+Panobinostat	HDAC2
+Vorinostat	HDAC2
+Romidepsin	HDAC2
+Sunitinib Malate	HIPK1
+Sunitinib Malate	JAK1
+Ruxolitinib Phosphate	JAK1
+Ruxolitinib Phosphate	JAK2
+Ruxolitinib Phosphate	JAK3
+Nilotinib	LYN
+Sunitinib Malate	MAP3K7
+Sunitinib Malate	MYLK
+Sorafenib Tosylate	PDGFRA
+Sunitinib Malate	PDGFRA
+Pazopanib Hydrochloride	PDGFRA
+Vandetanib	PDGFRB
+Sorafenib Tosylate	PDGFRB
+Sunitinib Malate	PDGFRB
+Pazopanib Hydrochloride	PDGFRB
+Ruxolitinib Phosphate	ROCK2

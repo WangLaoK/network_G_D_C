@@ -1,0 +1,95 @@
+drug	gene
+Afatinib Dimaleate	EGFR
+Afatinib Dimaleate	ERBB4
+Afatinib Dimaleate	ERBB2
+Aprepitant	CYP3A4
+Axitinib	FLT3
+Axitinib	PDGFRA
+Bevacizumab	VEGFA
+Bosutinib	EGFR
+Bosutinib	ERBB3
+Bosutinib	ERBB4
+Bosutinib	EPHA3
+Bosutinib	FRK
+Bosutinib	EPHA2
+Ceritinib	FLT3
+Cetuximab	EGFR
+Crizotinib	TEK
+Crizotinib	EPHA2
+Dasatinib	FLT3
+Dasatinib	EGFR
+Dasatinib	ERBB3
+Dasatinib	ERBB4
+Dasatinib	PDGFRA
+Dasatinib	EPHA3
+Dasatinib	FRK
+Dasatinib	EPHA2
+Docetaxel	EGFR
+Eribulin Mesylate	TUBB
+Erlotinib Hydrochloride	FLT3
+Etoposide	TOP2A
+Everolimus	MTOR
+Imatinib Mesylate	PDGFRA
+Lanreotide Acetate	SSTR5
+Nilotinib	PDGFRA
+Paclitaxel	TUBB
+Pemetrexed Disodium	TYMS
+Sunitinib Malate	TTK
+Tamoxifen Citrate	ABCB1
+Vinblastine Sulfate	ABCB1
+Crizotinib	ALK
+Alectinib	ALK
+Sunitinib Malate	ALK
+Bosutinib	ALK
+Ceritinib	ALK
+Axitinib	AURKA
+Doxorubicin Hydrochloride	AURKA
+Crizotinib	AURKB
+Erlotinib Hydrochloride	AURKB
+Sorafenib Tosylate	AURKB
+Sunitinib Malate	AURKB
+Axitinib	AURKB
+Vemurafenib	BRAF
+Regorafenib	BRAF
+Dasatinib	BRAF
+Sorafenib Tosylate	BRAF
+Dabrafenib	BRAF
+Pazopanib Hydrochloride	BRAF
+Nilotinib	CA9
+Imatinib Mesylate	CA9
+Palbociclib	CDK4
+Palbociclib	CDK6
+Sunitinib Malate	CHEK1
+Sunitinib Malate	CHEK2
+Ipilimumab	CTLA4
+Ruxolitinib Phosphate	DAPK1
+Ruxolitinib Phosphate	DCLK1
+Erlotinib Hydrochloride	EGFR
+Vandetanib	EGFR
+Necitumumab	EGFR
+Panitumumab	EGFR
+Lapatinib Ditosylate	EGFR
+Imatinib Mesylate	EGFR
+Ibrutinib	EGFR
+Sunitinib Malate	EGFR
+Gefitinib	EGFR
+Pertuzumab	ERBB2
+Lapatinib Ditosylate	ERBB2
+Lapatinib Ditosylate	ERBB4
+Sorafenib Tosylate	FLT3
+Vandetanib	FLT3
+Sunitinib Malate	FLT3
+Pazopanib Hydrochloride	FLT3
+Gefitinib	FLT3
+Pemetrexed Disodium	FOLR1
+Nilotinib	FRK
+Sunitinib Malate	JAK1
+Ruxolitinib Phosphate	JAK1
+Vorinostat	NCOR1
+Romidepsin	NCOR1
+Sorafenib Tosylate	PDGFRA
+Sunitinib Malate	PDGFRA
+Pazopanib Hydrochloride	PDGFRA
+Sunitinib Malate	RPS6KA1
+Sunitinib Malate	STK11
+Vinblastine Sulfate	TUBB

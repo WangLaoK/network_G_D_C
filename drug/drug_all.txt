@@ -1,0 +1,312 @@
+gene	drug
+ABCB1	Tamoxifen Citrate
+ABCB1	Vinblastine Sulfate
+ABL2	Nilotinib
+ABL2	Dasatinib
+ABL2	Vandetanib
+ABL2	Axitinib
+ABL2	Imatinib Mesylate
+ABL2	Bosutinib
+ACHE	Irinotecan Hydrochloride
+ALK	Crizotinib
+ALK	Alectinib
+ALK	Sunitinib Malate
+ALK	Bosutinib
+ALK	Ceritinib
+AOX1	Raloxifene Hydrochloride
+AURKA	Axitinib
+AURKA	Doxorubicin Hydrochloride
+AURKB	Crizotinib
+AURKB	Erlotinib Hydrochloride
+AURKB	Sorafenib Tosylate
+AURKB	Sunitinib Malate
+AURKB	Axitinib
+AXL	Crizotinib
+AXL	Sunitinib Malate
+AXL	Bosutinib
+BCL2	Venetoclax
+BCL2L1	Venetoclax
+BLK	Dasatinib
+BLK	Vandetanib
+BLK	Sunitinib Malate
+BLK	Bosutinib
+BLK	Ibrutinib
+BMX	Dasatinib
+BMX	Bosutinib
+BMX	Ibrutinib
+BRAF	Dasatinib
+BRAF	Regorafenib
+BRAF	Vemurafenib
+BRAF	Sorafenib Tosylate
+BRAF	Dabrafenib
+BRAF	Pazopanib Hydrochloride
+BTK	Dasatinib
+BTK	Bosutinib
+BTK	Ibrutinib
+CA2	Nilotinib
+CA2	Imatinib Mesylate
+CA9	Nilotinib
+CA9	Imatinib Mesylate
+CCR2	Plerixafor
+CD38	Daratumumab
+CDK4	Palbociclib
+CDK6	Palbociclib
+CHEK1	Sunitinib Malate
+CHEK2	Sunitinib Malate
+CSF1R	Nilotinib
+CSF1R	Dasatinib
+CSF1R	Sorafenib Tosylate
+CSF1R	Sunitinib Malate
+CSF1R	Pazopanib Hydrochloride
+CSF1R	Imatinib Mesylate
+CSNK2A1	Sunitinib Malate
+CTLA4	Ipilimumab
+CYP19A1	Sorafenib Tosylate
+CYP19A1	Exemestane
+CYP19A1	Letrozole
+DAPK1	Ruxolitinib Phosphate
+DCLK1	Ruxolitinib Phosphate
+DDR2	Nilotinib
+DDR2	Dasatinib
+DDR2	Sorafenib Tosylate
+DDR2	Pazopanib Hydrochloride
+DDR2	Imatinib Mesylate
+DHCR7	Tamoxifen Citrate
+DLK1	Sunitinib Malate
+EGFR	Erlotinib Hydrochloride
+EGFR	Vandetanib
+EGFR	Necitumumab
+EGFR	Panitumumab
+EGFR	Lapatinib Ditosylate
+EGFR	Imatinib Mesylate
+EGFR	Ibrutinib
+EGFR	Sunitinib Malate
+EGFR	Gefitinib
+EPHA6	Vandetanib
+EPHA8	Nilotinib
+EPHA8	Vandetanib
+EPHB2	Nilotinib
+EPHB4	Nilotinib
+EPHB6	Vandetanib
+EPHB6	Pazopanib Hydrochloride
+ERBB2	Pertuzumab
+ERBB2	Lapatinib Ditosylate
+ERBB4	Lapatinib Ditosylate
+ESR1	Tamoxifen Citrate
+ESR1	Raloxifene Hydrochloride
+ESR1	Fulvestrant
+FDPS	Zoledronic Acid
+FGFR1	Pazopanib Hydrochloride
+FGFR1	Ponatinib Hydrochloride
+FGFR3	Vandetanib
+FGFR3	Sorafenib Tosylate
+FGFR3	Sunitinib Malate
+FGFR3	Pazopanib Hydrochloride
+FLT3	Sorafenib Tosylate
+FLT3	Vandetanib
+FLT3	Sunitinib Malate
+FLT3	Pazopanib Hydrochloride
+FLT3	Gefitinib
+FLT4	Lenvatinib Mesylate
+FLT4	Sorafenib Tosylate
+FLT4	Sunitinib Malate
+FLT4	Pazopanib Hydrochloride
+FOLR1	Pemetrexed Disodium
+FRK	Nilotinib
+HDAC10	Panobinostat
+HDAC10	Vorinostat
+HDAC2	Panobinostat
+HDAC2	Vorinostat
+HDAC2	Romidepsin
+HDAC4	Panobinostat
+HDAC4	Vorinostat
+HDAC4	Romidepsin
+HDAC6	Panobinostat
+HDAC6	Vorinostat
+HDAC6	Romidepsin
+HDAC9	Panobinostat
+HDAC9	Vorinostat
+HIPK1	Sunitinib Malate
+HIPK2	Sunitinib Malate
+HIPK3	Sunitinib Malate
+IRAK1	Sunitinib Malate
+ITGB3	Paclitaxel
+ITK	Sunitinib Malate
+JAK1	Sunitinib Malate
+JAK1	Ruxolitinib Phosphate
+JAK2	Ruxolitinib Phosphate
+JAK3	Ruxolitinib Phosphate
+LYN	Nilotinib
+MAP2K1	Trametinib
+MAP3K7	Sunitinib Malate
+MAP4K1	Sunitinib Malate
+MAPK11	Nilotinib
+MYLK	Sunitinib Malate
+MYLK2	Sunitinib Malate
+NCOR1	Vorinostat
+NCOR1	Romidepsin
+NTRK1	Sunitinib Malate
+PAK3	Sunitinib Malate
+PDCD1	Pembrolizumab
+PDGFRA	Sorafenib Tosylate
+PDGFRA	Sunitinib Malate
+PDGFRA	Pazopanib Hydrochloride
+PDGFRB	Vandetanib
+PDGFRB	Sorafenib Tosylate
+PDGFRB	Sunitinib Malate
+PDGFRB	Pazopanib Hydrochloride
+PRKAA1	Sunitinib Malate
+PTK2B	Sunitinib Malate
+PTK6	Vandetanib
+RAF1	Vemurafenib
+RAF1	Sorafenib Tosylate
+RET	Sorafenib Tosylate
+RET	Vandetanib
+RET	Sunitinib Malate
+RIPK2	Vandetanib
+ROCK2	Ruxolitinib Phosphate
+RPS6KA1	Sunitinib Malate
+RPS6KA6	Sunitinib Malate
+RPS6KB1	Sunitinib Malate
+SHH	Vismodegib
+SLK	Vandetanib
+SLK	Sunitinib Malate
+SMO	Sonidegib
+SMO	Vismodegib
+SRC	Vandetanib
+STK11	Sunitinib Malate
+STK24	Sunitinib Malate
+STK4	Sunitinib Malate
+TUBB	Vinblastine Sulfate
+TYRO3	Vandetanib
+EGFR	Afatinib Dimaleate
+ERBB4	Afatinib Dimaleate
+ERBB2	Afatinib Dimaleate
+CYP19A1	Anastrozole
+TACR1	Aprepitant
+CYP3A4	Aprepitant
+PDGFRB	Axitinib
+PDGFRA	Axitinib
+CSF1R	Axitinib
+PLK4	Axitinib
+RET	Axitinib
+FLT3	Axitinib
+HDAC10	Belinostat
+HDAC4	Belinostat
+HDAC2	Belinostat
+HDAC9	Belinostat
+HDAC6	Belinostat
+VEGFA	Bevacizumab
+RARB	Bexarotene
+CD19	Blinatumomab
+CD3E	Blinatumomab
+SLK	Bosutinib
+EPHB2	Bosutinib
+MAP3K7	Bosutinib
+EPHB1	Bosutinib
+EPHB4	Bosutinib
+EPHA5	Bosutinib
+EPHA4	Bosutinib
+MAP2K1	Bosutinib
+EPHA8	Bosutinib
+TYRO3	Bosutinib
+TNIK	Bosutinib
+EPHA3	Bosutinib
+EPHA2	Bosutinib
+LYN	Bosutinib
+SRMS	Bosutinib
+STK24	Bosutinib
+IKBKE	Bosutinib
+MAP4K1	Bosutinib
+FGR	Bosutinib
+HCK	Bosutinib
+SRC	Bosutinib
+EGFR	Bosutinib
+ERBB3	Bosutinib
+ERBB4	Bosutinib
+FYN	Bosutinib
+NTRK1	Bosutinib
+NTRK2	Bosutinib
+FRK	Bosutinib
+IGF1R	Ceritinib
+FLT3	Ceritinib
+EGFR	Cetuximab
+RRM2	Clofarabine
+MAP2K1	Cobimetinib
+EPHB6	Crizotinib
+SLK	Crizotinib
+ROS1	Crizotinib
+EPHA6	Crizotinib
+EPHA2	Crizotinib
+IRAK1	Crizotinib
+PLK4	Crizotinib
+MAP4K1	Crizotinib
+MET	Crizotinib
+LTK	Crizotinib
+NTRK1	Crizotinib
+NTRK2	Crizotinib
+NTRK3	Crizotinib
+TEK	Crizotinib
+EPHB6	Dasatinib
+EPHB2	Dasatinib
+EPHB1	Dasatinib
+EPHB4	Dasatinib
+EPHB3	Dasatinib
+EPHA5	Dasatinib
+PDGFRB	Dasatinib
+EPHA4	Dasatinib
+PDGFRA	Dasatinib
+EPHA8	Dasatinib
+MYT1	Dasatinib
+EPHA1	Dasatinib
+EPHA3	Dasatinib
+EPHA2	Dasatinib
+LYN	Dasatinib
+SRMS	Dasatinib
+PTK6	Dasatinib
+RET	Dasatinib
+FLT3	Dasatinib
+RIPK2	Dasatinib
+FGR	Dasatinib
+HCK	Dasatinib
+SRC	Dasatinib
+EGFR	Dasatinib
+ERBB3	Dasatinib
+ERBB4	Dasatinib
+FYN	Dasatinib
+TEC	Dasatinib
+FRK	Dasatinib
+NR3C1	Dexamethasone
+KIF11	Docetaxel
+EGFR	Docetaxel
+TUBB	Eribulin Mesylate
+SLK	Erlotinib Hydrochloride
+RET	Erlotinib Hydrochloride
+FLT3	Erlotinib Hydrochloride
+TOP2A	Etoposide
+MTOR	Everolimus
+IRAK1	Gefitinib
+RET	Ibrutinib
+PIK3CD	Idelalisib
+PIK3CG	Idelalisib
+PDGFRB	Imatinib Mesylate
+PDGFRA	Imatinib Mesylate
+SSTR3	Lanreotide Acetate
+SSTR4	Lanreotide Acetate
+SSTR5	Lanreotide Acetate
+SLC19A1	Methotrexate
+PIM1	Mitoxantrone Hydrochloride
+PDGFRB	Nilotinib
+PDGFRA	Nilotinib
+PDCD1	Nivolumab
+PARP1	Olaparib
+TUBB	Paclitaxel
+RET	Pazopanib Hydrochloride
+TYMS	Pemetrexed Disodium
+RET	Ponatinib Hydrochloride
+SRC	Ponatinib Hydrochloride
+TACR1	Rolapitant Hydrochloride
+TYRO3	Sunitinib Malate
+ULK1	Sunitinib Malate
+TNIK	Sunitinib Malate
+TTK	Sunitinib Malate

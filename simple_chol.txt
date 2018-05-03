@@ -1,0 +1,159 @@
+source	target
+ARID1A	Biliary Tract Cancer
+BRAF	Biliary Tract Cancer
+CD4	Biliary Tract Cancer
+CDKN2A	Biliary Tract Cancer
+DCC	Biliary Tract Cancer
+DPYD	Biliary Tract Cancer
+ERBB2	Biliary Tract Cancer
+FAS	Biliary Tract Cancer
+GCLC	Biliary Tract Cancer
+GRN	Biliary Tract Cancer
+LRG1	Biliary Tract Cancer
+MGMT	Biliary Tract Cancer
+MUC1	Biliary Tract Cancer
+MUC4	Biliary Tract Cancer
+MUC5AC	Biliary Tract Cancer
+PIK3CA	Biliary Tract Cancer
+PTEN	Biliary Tract Cancer
+RUNX3	Biliary Tract Cancer
+SFRP1	Biliary Tract Cancer
+SHOX2	Biliary Tract Cancer
+SMAD4	Biliary Tract Cancer
+SOX9	Biliary Tract Cancer
+TP53	Biliary Tract Cancer
+TP53	Biliary Tract Cancer
+XRCC1	Biliary Tract Cancer
+BAK1	Carcinoma of ampulla of Vater
+BCL2L1	Carcinoma of ampulla of Vater
+BRAF	Carcinoma of ampulla of Vater
+DPYD	Carcinoma of ampulla of Vater
+MUC1	Carcinoma of ampulla of Vater
+MUC5AC	Carcinoma of ampulla of Vater
+PTEN	Carcinoma of ampulla of Vater
+SPARC	Carcinoma of ampulla of Vater
+AFP	Cholangiocarcinoma
+BRAF	Cholangiocarcinoma
+CDKN2A	Cholangiocarcinoma
+CDKN2A	Cholangiocarcinoma
+CDKN2A	Cholangiocarcinoma
+DAPK1	Cholangiocarcinoma
+EPCAM	Cholangiocarcinoma
+ERBB2	Cholangiocarcinoma
+EZH2	Cholangiocarcinoma
+FABP1	Cholangiocarcinoma
+FAS	Cholangiocarcinoma
+IDH1	Cholangiocarcinoma
+MUC1	Cholangiocarcinoma
+MUC16	Cholangiocarcinoma
+MUC4	Cholangiocarcinoma
+NEK2	Cholangiocarcinoma
+NR1I2	Cholangiocarcinoma
+NR1I3	Cholangiocarcinoma
+PKHD1	Cholangiocarcinoma
+PROX1	Cholangiocarcinoma
+PTEN	Cholangiocarcinoma
+PTEN	Cholangiocarcinoma
+PTEN	Cholangiocarcinoma
+PTGS2	Cholangiocarcinoma
+PTGS2	Cholangiocarcinoma
+RBP1	Cholangiocarcinoma
+RHOC	Cholangiocarcinoma
+SDC2	Cholangiocarcinoma
+SLC22A1	Cholangiocarcinoma
+SLC22A3	Cholangiocarcinoma
+SMAD4	Cholangiocarcinoma
+SMAD4	Cholangiocarcinoma
+SMAD4	Cholangiocarcinoma
+SNAI1	Cholangiocarcinoma
+SOX4	Cholangiocarcinoma
+TACSTD2	Cholangiocarcinoma
+TP53	Cholangiocarcinoma
+TP53	Cholangiocarcinoma
+TP73	Cholangiocarcinoma
+TPM1	Cholangiocarcinoma
+VIM	Cholangiocarcinoma
+WWOX	Cholangiocarcinoma
+APC	Extrahepatic Cholangiocarcinoma
+CD4	Extrahepatic Cholangiocarcinoma
+CDKN2A	Extrahepatic Cholangiocarcinoma
+DCC	Extrahepatic Cholangiocarcinoma
+PTEN	Extrahepatic Cholangiocarcinoma
+SMAD4	Extrahepatic Cholangiocarcinoma
+TP53	Extrahepatic Cholangiocarcinoma
+AFP	Gallbladder Carcinoma
+APC	Gallbladder Carcinoma
+APOA1	Gallbladder Carcinoma
+BIRC5	Gallbladder Carcinoma
+CCNE1	Gallbladder Carcinoma
+CD151	Gallbladder Carcinoma
+CDKN2A	Gallbladder Carcinoma
+CIZ1	Gallbladder Carcinoma
+CLIC1	Gallbladder Carcinoma
+DCC	Gallbladder Carcinoma
+DICER1	Gallbladder Carcinoma
+DPYD	Gallbladder Carcinoma
+E2F1	Gallbladder Carcinoma
+EPCAM	Gallbladder Carcinoma
+EPHA7	Gallbladder Carcinoma
+ESR1	Gallbladder Carcinoma
+FCGBP	Gallbladder Carcinoma
+HGF	Gallbladder Carcinoma
+JAG1	Gallbladder Carcinoma
+MGMT	Gallbladder Carcinoma
+MUC1	Gallbladder Carcinoma
+MUC4	Gallbladder Carcinoma
+NR1H4	Gallbladder Carcinoma
+NT5E	Gallbladder Carcinoma
+PEBP1	Gallbladder Carcinoma
+PLK1	Gallbladder Carcinoma
+PTEN	Gallbladder Carcinoma
+PTGS2	Gallbladder Carcinoma
+PTGS2	Gallbladder Carcinoma
+ROBO1	Gallbladder Carcinoma
+SHH	Gallbladder Carcinoma
+SSBP2	Gallbladder Carcinoma
+STMN1	Gallbladder Carcinoma
+TIMP1	Gallbladder Carcinoma
+TOP2A	Gallbladder Carcinoma
+TOP2A	Gallbladder Carcinoma
+TP53	Gallbladder Carcinoma
+UHRF1	Gallbladder Carcinoma
+VIM	Gallbladder Carcinoma
+AFP	Intrahepatic Cholangiocarcinoma
+AFP	Intrahepatic Cholangiocarcinoma
+AKT1	Intrahepatic Cholangiocarcinoma
+ARID1A	Intrahepatic Cholangiocarcinoma
+BRAF	Intrahepatic Cholangiocarcinoma
+CAPNS1	Intrahepatic Cholangiocarcinoma
+CCND1	Intrahepatic Cholangiocarcinoma
+CCND1	Intrahepatic Cholangiocarcinoma
+CD151	Intrahepatic Cholangiocarcinoma
+CDKN2A	Intrahepatic Cholangiocarcinoma
+CDKN2A	Intrahepatic Cholangiocarcinoma
+CPS1	Intrahepatic Cholangiocarcinoma
+HMGA2	Intrahepatic Cholangiocarcinoma
+IDH1	Intrahepatic Cholangiocarcinoma
+KRT7	Intrahepatic Cholangiocarcinoma
+MUC1	Intrahepatic Cholangiocarcinoma
+MUC5AC	Intrahepatic Cholangiocarcinoma
+NOTCH1	Intrahepatic Cholangiocarcinoma
+PIK3CA	Intrahepatic Cholangiocarcinoma
+PTEN	Intrahepatic Cholangiocarcinoma
+RASA1	Intrahepatic Cholangiocarcinoma
+RUNX3	Intrahepatic Cholangiocarcinoma
+S100A11	Intrahepatic Cholangiocarcinoma
+SERPINH1	Intrahepatic Cholangiocarcinoma
+SFRP1	Intrahepatic Cholangiocarcinoma
+SMAD4	Intrahepatic Cholangiocarcinoma
+SMAD4	Intrahepatic Cholangiocarcinoma
+TAT	Intrahepatic Cholangiocarcinoma
+TP53	Intrahepatic Cholangiocarcinoma
+TP53	Intrahepatic Cholangiocarcinoma
+TP53	Intrahepatic Cholangiocarcinoma
+WWOX	Intrahepatic Cholangiocarcinoma
+PRR11	Klatskin's Tumor
+SLC38A1	Klatskin's Tumor
+SNAI1	Klatskin's Tumor
+TACSTD2	Klatskin's Tumor
+TP73	Klatskin's Tumor

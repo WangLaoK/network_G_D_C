@@ -1,0 +1,62 @@
+gene	drug
+ABCB1	Tamoxifen Citrate
+ABCB1	Vinblastine Sulfate
+AURKB	Axitinib
+AURKB	Crizotinib
+AURKB	Erlotinib Hydrochloride
+AURKB	Sorafenib Tosylate
+AURKB	Sunitinib Malate
+BCL2L1	Venetoclax
+BRAF	Dabrafenib
+BRAF	Dasatinib
+BRAF	Pazopanib Hydrochloride
+BRAF	Regorafenib
+BRAF	Sorafenib Tosylate
+BRAF	Vemurafenib
+CSNK2A1	Sunitinib Malate
+ERBB2	Afatinib Dimaleate
+ERBB2	Lapatinib Ditosylate
+ERBB2	Pertuzumab
+ESR1	Fulvestrant
+ESR1	Raloxifene Hydrochloride
+ESR1	Tamoxifen Citrate
+FGFR1	Pazopanib Hydrochloride
+FGFR1	Ponatinib Hydrochloride
+FLT3	Erlotinib Hydrochloride
+FLT3	Dasatinib
+FLT3	Axitinib
+FLT3	Ceritinib
+FLT3	Gefitinib
+FLT3	Pazopanib Hydrochloride
+FLT3	Sorafenib Tosylate
+FLT3	Sunitinib Malate
+FLT3	Vandetanib
+HDAC6	Belinostat
+HDAC6	Panobinostat
+HDAC6	Romidepsin
+HDAC6	Vorinostat
+RET	Erlotinib Hydrochloride
+RET	Dasatinib
+RET	Pazopanib Hydrochloride
+RET	Axitinib
+RET	Ponatinib Hydrochloride
+RET	Ibrutinib
+RET	Sorafenib Tosylate
+RET	Sunitinib Malate
+RET	Vandetanib
+SHH	Vismodegib
+SLK	Erlotinib Hydrochloride
+SLK	Crizotinib
+SLK	Bosutinib
+SLK	Sunitinib Malate
+SLK	Vandetanib
+SRC	Dasatinib
+SRC	Ponatinib Hydrochloride
+SRC	Bosutinib
+SRC	Vandetanib
+TEC	Dasatinib
+TOP2A	Etoposide
+TTK	Sunitinib Malate
+TUBB	Paclitaxel
+TUBB	Eribulin Mesylate
+TUBB	Vinblastine Sulfate

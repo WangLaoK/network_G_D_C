@@ -1,0 +1,217 @@
+drug	gene
+Alectinib	ALK
+Axitinib	ABL2
+Axitinib	AURKB
+Axitinib	AURKA
+Blinatumomab	CD19
+Blinatumomab	CD3E
+Bosutinib	BTK
+Bosutinib	BLK
+Bosutinib	ABL2
+Bosutinib	ALK
+Bosutinib	AXL
+Ceritinib	ALK
+Crizotinib	ALK
+Crizotinib	AURKB
+Crizotinib	AXL
+Dabrafenib	BRAF
+Daratumumab	CD38
+Dasatinib	BTK
+Dasatinib	BLK
+Dasatinib	CSF1R
+Dasatinib	ABL2
+Dasatinib	BRAF
+Dasatinib	DDR2
+Doxorubicin Hydrochloride	AURKA
+Erlotinib Hydrochloride	AURKB
+Exemestane	CYP19A1
+Fulvestrant	ESR1
+Gefitinib	FLT3
+Ibrutinib	BTK
+Ibrutinib	BLK
+Imatinib Mesylate	CSF1R
+Imatinib Mesylate	ABL2
+Imatinib Mesylate	CA2
+Imatinib Mesylate	CA9
+Imatinib Mesylate	DDR2
+Ipilimumab	CTLA4
+Irinotecan Hydrochloride	ACHE
+Lapatinib Ditosylate	ERBB4
+Lapatinib Ditosylate	ERBB2
+Lenvatinib Mesylate	FLT4
+Letrozole	CYP19A1
+Nilotinib	EPHB2
+Nilotinib	EPHB4
+Nilotinib	EPHA8
+Nilotinib	CSF1R
+Nilotinib	ABL2
+Nilotinib	CA2
+Nilotinib	CA9
+Nilotinib	DDR2
+Nilotinib	MAPK11
+Paclitaxel	ITGB3
+Palbociclib	CDK4
+Panobinostat	HDAC9
+Pazopanib Hydrochloride	EPHB6
+Pazopanib Hydrochloride	PDGFRA
+Pazopanib Hydrochloride	CSF1R
+Pazopanib Hydrochloride	BRAF
+Pazopanib Hydrochloride	FGFR1
+Pazopanib Hydrochloride	FLT3
+Pazopanib Hydrochloride	FLT4
+Pazopanib Hydrochloride	DDR2
+Pembrolizumab	PDCD1
+Pemetrexed Disodium	FOLR1
+Pertuzumab	ERBB2
+Plerixafor	CCR2
+Ponatinib Hydrochloride	FGFR1
+Raloxifene Hydrochloride	ESR1
+Regorafenib	BRAF
+Romidepsin	NCOR1
+Ruxolitinib Phosphate	DAPK1
+Ruxolitinib Phosphate	DCLK1
+Ruxolitinib Phosphate	JAK1
+Sorafenib Tosylate	PDGFRA
+Sorafenib Tosylate	RAF1
+Sorafenib Tosylate	CSF1R
+Sorafenib Tosylate	CYP19A1
+Sorafenib Tosylate	BRAF
+Sorafenib Tosylate	RET
+Sorafenib Tosylate	FLT3
+Sorafenib Tosylate	FLT4
+Sorafenib Tosylate	DDR2
+Sorafenib Tosylate	AURKB
+Sunitinib Malate	MYLK2
+Sunitinib Malate	MYLK
+Sunitinib Malate	STK11
+Sunitinib Malate	RPS6KA6
+Sunitinib Malate	CHEK2
+Sunitinib Malate	CHEK1
+Sunitinib Malate	PDGFRA
+Sunitinib Malate	CSNK2A1
+Sunitinib Malate	BLK
+Sunitinib Malate	CSF1R
+Sunitinib Malate	STK4
+Sunitinib Malate	IRAK1
+Sunitinib Malate	RET
+Sunitinib Malate	ALK
+Sunitinib Malate	ITK
+Sunitinib Malate	FLT3
+Sunitinib Malate	FLT4
+Sunitinib Malate	JAK1
+Sunitinib Malate	MAP4K1
+Sunitinib Malate	PRKAA1
+Sunitinib Malate	AURKB
+Sunitinib Malate	PTK2B
+Sunitinib Malate	PAK3
+Sunitinib Malate	NTRK1
+Sunitinib Malate	HIPK1
+Sunitinib Malate	AXL
+Tamoxifen Citrate	ABCB1
+Tamoxifen Citrate	ESR1
+Tamoxifen Citrate	DHCR7
+Vandetanib	EPHB6
+Vandetanib	EPHA6
+Vandetanib	EPHA8
+Vandetanib	TYRO3
+Vandetanib	BLK
+Vandetanib	ABL2
+Vandetanib	PTK6
+Vandetanib	RET
+Vandetanib	FLT3
+Vandetanib	RIPK2
+Vandetanib	SRC
+Vemurafenib	RAF1
+Vemurafenib	BRAF
+Venetoclax	BCL2
+Venetoclax	BCL2L1
+Vinblastine Sulfate	ABCB1
+Vismodegib	SHH
+Vorinostat	NCOR1
+Vorinostat	HDAC9
+Axitinib	CSF1R
+Anastrozole	CYP19A1
+Aprepitant	CYP3A4
+Dasatinib	EPHA1
+Crizotinib	EPHA2
+Dasatinib	EPHA2
+Bosutinib	EPHA2
+Dasatinib	EPHA3
+Bosutinib	EPHA3
+Dasatinib	EPHA4
+Bosutinib	EPHA4
+Crizotinib	EPHA6
+Dasatinib	EPHA8
+Bosutinib	EPHA8
+Dasatinib	EPHB1
+Bosutinib	EPHB1
+Dasatinib	EPHB2
+Bosutinib	EPHB2
+Dasatinib	EPHB3
+Dasatinib	EPHB4
+Bosutinib	EPHB4
+Crizotinib	EPHB6
+Dasatinib	EPHB6
+Afatinib Dimaleate	ERBB2
+Dasatinib	ERBB3
+Bosutinib	ERBB3
+Dasatinib	ERBB4
+Afatinib Dimaleate	ERBB4
+Bosutinib	ERBB4
+Erlotinib Hydrochloride	FLT3
+Dasatinib	FLT3
+Axitinib	FLT3
+Ceritinib	FLT3
+Dasatinib	HCK
+Bosutinib	HCK
+Belinostat	HDAC9
+Crizotinib	IRAK1
+Gefitinib	IRAK1
+Crizotinib	MAP4K1
+Bosutinib	MAP4K1
+Crizotinib	MET
+Everolimus	MTOR
+Dasatinib	MYT1
+Dexamethasone	NR3C1
+Crizotinib	NTRK1
+Bosutinib	NTRK1
+Crizotinib	NTRK2
+Bosutinib	NTRK2
+Crizotinib	NTRK3
+Nivolumab	PDCD1
+Nilotinib	PDGFRA
+Dasatinib	PDGFRA
+Axitinib	PDGFRA
+Imatinib Mesylate	PDGFRA
+Idelalisib	PIK3CD
+Idelalisib	PIK3CG
+Crizotinib	PLK4
+Axitinib	PLK4
+Dasatinib	PTK6
+Erlotinib Hydrochloride	RET
+Dasatinib	RET
+Pazopanib Hydrochloride	RET
+Axitinib	RET
+Ponatinib Hydrochloride	RET
+Ibrutinib	RET
+Dasatinib	RIPK2
+Clofarabine	RRM2
+Methotrexate	SLC19A1
+Dasatinib	SRC
+Ponatinib Hydrochloride	SRC
+Bosutinib	SRC
+Dasatinib	SRMS
+Bosutinib	SRMS
+Lanreotide Acetate	SSTR3
+Lanreotide Acetate	SSTR4
+Lanreotide Acetate	SSTR5
+Aprepitant	TACR1
+Rolapitant Hydrochloride	TACR1
+Crizotinib	TEK
+Sunitinib Malate	TNIK
+Bosutinib	TNIK
+Etoposide	TOP2A
+Sunitinib Malate	TTK
+Sunitinib Malate	TYRO3
+Bosutinib	TYRO3
+Bevacizumab	VEGFA
