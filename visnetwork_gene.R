@@ -83,31 +83,6 @@ visSave(cancer_chol_network, file = "chol_network.html")
 # dev.off()
 
 
-chol_edge.df <- chol_edge %>%
-  select(from,to,group,S_name,n,P_name)
-colnames(chol_edge.df) <- c('from','to','cancer','gene','n','P_name')
-chol_node.df <- chol_node %>%
-  select(id,name,group)
-mygraph <- graph_from_data_frame( chol_edge.df, vertices=chol_node.df)
-
-mygraph_tidy <- mygraph %>%
-  as_tbl_graph() %>%
-  activate(nodes) %>%
-  mutate(gene=node_is_source())%>%
-  mutate(cancer=!node_is_source())%>%
-  activate(edges) 
-mygraph_tidy %>%
-  ggraph(layout = 'kk') +
-  geom_edge_link(aes(colour=P_name,edge_alpha = n, edge_width = n)) +
-  #geom_edge_fan() +
-  geom_node_point(aes(filter=cancer),color='#F45B24',size =5)+
-  geom_node_point(aes(filter=gene),color='#547B94',size =5)+
-  #geom_node_point(aes(color = group),size =4) +
-  geom_node_text(aes(label = name), repel = TRUE, 
-                 point.padding = unit(0.2, "lines"))+
-  labs(title='Chol network')+
-  #scale_color_identity()
-  theme_graph()
 
 #esca start
 #Dynamic
@@ -440,3 +415,189 @@ dev.off()
 #   #scale_color_identity()
 #   theme_graph()
 # dev.off()
+
+
+
+
+coca_edge.df <- coca_edge %>%
+  select(from,to,group,S_name,n,P_name)
+colnames(coca_edge.df) <- c('from','to','cancer','gene','n','P_name')
+coca_node.df <- coca_node %>%
+  select(id,name,group)
+mygraph <- graph_from_data_frame( coca_edge.df, vertices=coca_node.df)
+
+mygraph_tidy <- mygraph %>%
+  as_tbl_graph() %>%
+  activate(nodes) %>%
+  mutate(gene=node_is_source())%>%
+  mutate(cancer=!node_is_source())%>%
+  activate(edges) 
+pdf('coca_network.pdf',height = 8.5 ,width = 11)
+mygraph_tidy %>%
+  ggraph(layout = 'fr') +
+  geom_edge_link(aes(colour=P_name,edge_alpha = n, edge_width = n)) +
+  #geom_edge_fan() +
+  geom_node_point(aes(filter=cancer),color='#F45B24',size =2)+
+  geom_node_point(aes(filter=gene),color='#547B94',size =2)+
+  #geom_node_point(aes(color = group),size =4) +
+  geom_node_text(aes(label = name))+
+  #geom_node_text(aes(label = name), repel = TRUE, 
+   #              point.padding = unit(0.1, "lines"))+
+  #labs(title='coca network')+
+  #scale_color_identity()
+  theme_graph()
+dev.off()
+
+
+chol_edge.df <- chol_edge %>%
+  select(from,to,group,S_name,n,P_name)
+colnames(chol_edge.df) <- c('from','to','cancer','gene','n','P_name')
+chol_node.df <- chol_node %>%
+  select(id,name,group)
+mygraph <- graph_from_data_frame( chol_edge.df, vertices=chol_node.df)
+
+mygraph_tidy <- mygraph %>%
+  as_tbl_graph() %>%
+  activate(nodes) %>%
+  mutate(gene=node_is_source())%>%
+  mutate(cancer=!node_is_source())%>%
+  activate(edges) 
+pdf('chol_network.pdf',height = 8.5 ,width = 11)
+mygraph_tidy %>%
+  ggraph(layout = 'fr') +
+  geom_edge_link(aes(colour=P_name,edge_alpha = n, edge_width = n)) +
+  #geom_edge_fan() +
+  geom_node_point(aes(filter=cancer),color='#F45B24',size =2)+
+  geom_node_point(aes(filter=gene),color='#547B94',size =2)+
+  #geom_node_point(aes(color = group),size =4) +
+  geom_node_text(aes(label = name))+
+  #geom_node_text(aes(label = name), repel = TRUE, 
+  #              point.padding = unit(0.1, "lines"))+
+  #labs(title='chol network')+
+  #scale_color_identity()
+  theme_graph()
+dev.off()
+
+esca_edge.df <- esca_edge %>%
+  select(from,to,group,S_name,n,P_name)
+colnames(esca_edge.df) <- c('from','to','cancer','gene','n','P_name')
+esca_node.df <- esca_node %>%
+  select(id,name,group)
+mygraph <- graph_from_data_frame( esca_edge.df, vertices=esca_node.df)
+
+mygraph_tidy <- mygraph %>%
+  as_tbl_graph() %>%
+  activate(nodes) %>%
+  mutate(gene=node_is_source())%>%
+  mutate(cancer=!node_is_source())%>%
+  activate(edges) 
+pdf('esca_network.pdf',height = 8.5 ,width = 11)
+mygraph_tidy %>%
+  ggraph(layout = 'fr') +
+  geom_edge_link(aes(colour=P_name,edge_alpha = n, edge_width = n)) +
+  #geom_edge_fan() +
+  geom_node_point(aes(filter=cancer),color='#F45B24',size =2)+
+  geom_node_point(aes(filter=gene),color='#547B94',size =2)+
+  #geom_node_point(aes(color = group),size =4) +
+  geom_node_text(aes(label = name))+
+  #geom_node_text(aes(label = name), repel = TRUE, 
+  #              point.padding = unit(0.1, "lines"))+
+  #labs(title='esca network')+
+  #scale_color_identity()
+  theme_graph()
+dev.off()
+
+
+lihc_edge.df <- lihc_edge %>%
+  select(from,to,group,S_name,n,P_name)
+colnames(lihc_edge.df) <- c('from','to','cancer','gene','n','P_name')
+lihc_node.df <- lihc_node %>%
+  select(id,name,group)
+mygraph <- graph_from_data_frame( lihc_edge.df, vertices=lihc_node.df)
+
+mygraph_tidy <- mygraph %>%
+  as_tbl_graph() %>%
+  activate(nodes) %>%
+  mutate(gene=node_is_source())%>%
+  mutate(cancer=!node_is_source())%>%
+  activate(edges) 
+pdf('lihc_network.pdf',height = 8.5 ,width = 11)
+mygraph_tidy %>%
+  ggraph(layout = 'fr') +
+  geom_edge_link(aes(colour=P_name,edge_alpha = n, edge_width = n)) +
+  #geom_edge_fan() +
+  geom_node_point(aes(filter=cancer),color='#F45B24',size =2)+
+  geom_node_point(aes(filter=gene),color='#547B94',size =2)+
+  #geom_node_point(aes(color = group),size =4) +
+  geom_node_text(aes(label = name))+
+  #geom_node_text(aes(label = name), repel = TRUE, 
+  #              point.padding = unit(0.1, "lines"))+
+  #labs(title='lihc network')+
+  #scale_color_identity()
+  theme_graph()
+dev.off()
+
+
+paad_edge.df <- paad_edge %>%
+  select(from,to,group,S_name,n,P_name)
+colnames(paad_edge.df) <- c('from','to','cancer','gene','n','P_name')
+paad_node.df <- paad_node %>%
+  select(id,name,group)
+mygraph <- graph_from_data_frame( paad_edge.df, vertices=paad_node.df)
+
+mygraph_tidy <- mygraph %>%
+  as_tbl_graph() %>%
+  activate(nodes) %>%
+  mutate(gene=node_is_source())%>%
+  mutate(cancer=!node_is_source())%>%
+  activate(edges) 
+pdf('paad_network.pdf',height = 8.5 ,width = 11)
+mygraph_tidy %>%
+  ggraph(layout = 'fr') +
+  geom_edge_link(aes(colour=P_name,edge_alpha = n, edge_width = n)) +
+  #geom_edge_fan() +
+  geom_node_point(aes(filter=cancer),color='#F45B24',size =2)+
+  geom_node_point(aes(filter=gene),color='#547B94',size =2)+
+  #geom_node_point(aes(color = group),size =4) +
+  geom_node_text(aes(label = name))+
+  #geom_node_text(aes(label = name), repel = TRUE, 
+  #              point.padding = unit(0.1, "lines"))+
+  #labs(title='paad network')+
+  #scale_color_identity()
+  theme_graph()
+dev.off()
+
+stad_edge.df <- stad_edge %>%
+  select(from,to,group,S_name,n,P_name)
+colnames(stad_edge.df) <- c('from','to','cancer','gene','n','P_name')
+stad_node.df <- stad_node %>%
+  select(id,name,group)
+mygraph <- graph_from_data_frame( stad_edge.df, vertices=stad_node.df)
+
+mygraph_tidy <- mygraph %>%
+  as_tbl_graph() %>%
+  activate(nodes) %>%
+  mutate(gene=node_is_source())%>%
+  mutate(cancer=!node_is_source())%>%
+  activate(edges) 
+pdf('stad_network.pdf',height = 8.5 ,width = 11)
+mygraph_tidy %>%
+  ggraph(layout = 'fr') +
+  geom_edge_link(aes(colour=P_name,edge_alpha = n, edge_width = n)) +
+  #geom_edge_fan() +
+  geom_node_point(aes(filter=cancer),color='#F45B24',size =2)+
+  geom_node_point(aes(filter=gene),color='#547B94',size =2)+
+  #geom_node_point(aes(color = group),size =4) +
+  geom_node_text(aes(label = name))+
+  #geom_node_text(aes(label = name), repel = TRUE, 
+  #              point.padding = unit(0.1, "lines"))+
+  #labs(title='stad network')+
+  #scale_color_identity()
+  theme_graph()
+dev.off()
+
+
+
+
+
+
