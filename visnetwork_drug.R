@@ -198,8 +198,51 @@ drug_all_network<-visNetwork(all_node, all_edge, height = "1000px", width = "100
   visGroups(groupname = "drug", color = "#7F9E5A") %>%
   visGroups(groupname = "gene", color = "#FAEA77") %>%
   visPhysics(stabilization = T)%>%
-  visLegend()
+  visLegend()%>%
+  visExport(type = 'pdf')
 drug_all_network
 visSave(drug_all_network, 
         file="drug_all_network.html")
+
+#plot a static network
+library(ggraph)
+library(igraph)
+library(tidygraph)
+library(tidyverse)
+#demo data
+rdo_oxford_edges <- read_csv("https://gist.githubusercontent.com/martinjhnhadley/ba5a983e4e29cae29d379fc9daf1d873/raw/dea7df7ae9a1542372fe6203362991ec019bb1c3/rdo_oxford_edges.csv")
+rdo_oxford_index <- read_csv("https://gist.githubusercontent.com/martinjhnhadley/ba5a983e4e29cae29d379fc9daf1d873/raw/c3ead87cd4dc95696432b4f6547e4d7762132721/rdo_oxford_index.csv")
+
+
+
+#make as tidyversion
+
+
+mygraph <- graph_from_data_frame( all_edge, vertices=all_node)
+
+
+mygraph_tidy <- mygraph %>%
+  as_tbl_graph() %>%
+  activate(nodes) %>%
+  mutate(gene=node_is_source())%>%
+  mutate(drug=!node_is_source())%>%
+  activate(edges) 
+  
+pdf('drug_gene_all_network.pdf')
+mygraph_tidy %>%
+  ggraph(layout = 'kk') +
+  geom_edge_link(edge_colour = "cyan4") +
+  #geom_edge_fan() +
+  geom_node_point(aes(filter=drug),color='#7F9E5A',size =5)+
+  geom_node_point(aes(filter=gene),color='#FAEA77',size =5)+
+  #geom_node_point(aes(color = group),size =4) +
+  geom_node_text(aes(label = name), repel = TRUE, 
+    point.padding = unit(0.2, "lines"))+
+  ggtitle('Drug and gene network')+
+  #scale_color_identity()
+  theme_graph()
+dev.off()
+
+
+
 
